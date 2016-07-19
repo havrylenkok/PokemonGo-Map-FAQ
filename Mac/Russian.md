@@ -2,7 +2,7 @@
 ============
 Подготовка
 -----------
-Для начала нам понадобится установить менеджер пакетов [**Homebrew**](http://brew.sh/). Для этого откроем **Terminal** (нажмите ctrl + Пробел, введите "Terminal" и нажмите Enter) и выполним следующую инструкцию в нем:
+Для начала нам понадобиться установить менеджер пакетов [**Homebrew**](http://brew.sh/). Для этого откроем **Terminal** (нажмите ctrl + Пробел, введите "Terminal" и нажмите Enter) и выполним следующую инструкцию в нем:
 
 `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)`
 
