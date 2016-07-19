@@ -16,7 +16,7 @@ Install Python 2.7.x:
   
 Install Pip: `sudo apt-get -y install python-pip`.
 
-Install Git: `apt-get install git`
+Install Git: `apt-get install git`.
 
 Clone [PokemonGo-Map](): `git clone https://github.com/AHAAAAAAA/PokemonGo-Map.git`.
 
@@ -35,4 +35,4 @@ Start Flask-server: `python example.py -u myUsername -p myPassword -l "Area wher
 
 Then open your browser and go to `127.0.0.1:5000`.
 
-If you need to auth with Google account use option `-a google`. If you need to auto-update pokemon map use option `-ar 5` (5 seconds). Also look for other options in [base project's readme](https://github.com/AHAAAAAAA/PokemonGo-Map).
+If you need to auth with Google account use flag `-a google`. If you need to auto-update pokemon map use flag `-ar 5` (5 seconds). Also look for other flags in [base project's readme](https://github.com/AHAAAAAAA/PokemonGo-Map).
