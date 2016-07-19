@@ -14,9 +14,17 @@
 
 `brew install python`
 
-И установим зависимости проекта [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map). Pip устанавливается вместе с python командой, которую мы вызвали выше.
+И установим зависимости проекта [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map). Pip устанавливается вместе с python командой, которую мы вызвали выше. Для этого, если вы ещё не скачали проект, скачайте его при помощи `git`: 
 
-Для этого, если вы ещё не скачали проект, скачайте его при помощи `git`: `git clone https://github.com/AHAAAAAAA/PokemonGo-Map.git` и перейдите в папку проекта `cd PokemonGo-Map`. Далее выполните команду: `pip install -r requirements.txt`
+`git clone https://github.com/AHAAAAAAA/PokemonGo-Map.git`
+
+И перейдите в папку проекта: 
+
+`cd PokemonGo-Map`
+
+Далее выполните команду: 
+
+`pip install -r requirements.txt`
 
 Теперь у нас все готово к тому, чтобы узнать расположение всех покемонов.
 
