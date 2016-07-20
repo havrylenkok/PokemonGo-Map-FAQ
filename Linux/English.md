@@ -20,7 +20,7 @@ Install Git: `apt-get install git`.
 
 Clone [PokemonGo-Map](): `git clone https://github.com/AHAAAAAAA/PokemonGo-Map.git`.
 
-Go to cloned folder: `cd PokemonGo-Map-master`.
+Go to cloned folder: `cd PokemonGo-Map`.
 
 Install dependencies: `pip install -r requirements.txt`.
 
