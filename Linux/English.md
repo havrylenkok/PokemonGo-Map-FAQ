@@ -22,7 +22,7 @@ Clone [PokemonGo-Map](): `git clone https://github.com/AHAAAAAAA/PokemonGo-Map.g
 
 Go to cloned folder: `cd PokemonGo-Map`.
 
-Install dependencies: `pip install -r requirements.txt`.
+Install dependencies: `sudo pip install -r requirements.txt`.
 
 Use
 ======
